@@ -3,8 +3,9 @@
 </p>
 
 <p align="center">
-  Java va Spring ekotizimida backend tizimlar, onlayn buyurtma va katalog saytlari<br/>
-  hamda interaktiv 3D veb-loyihalar quraman. SBUMIPTK universitetida dastur injiniringi yo'nalishida o'qiyman.
+  Java va Spring ekotizimida backend tizimlar, onlayn buyurtma saytlari<br/>
+  hamda interaktiv 3D veb-loyihalar quraman.<br/>
+  SBUMIPTK universitetida dastur injiniringi yo'nalishida o'qiyman.
 </p>
 
 <p align="center">
@@ -18,12 +19,13 @@
 <img src="assets/t-projects.svg" alt="01 / Loyihalar" width="100%"/>
 
 <p align="center">
-  <a href="https://my-portfolio-eta-three-73.vercel.app"><img src="assets/card-portfolio.svg" alt="Shaxsiy portfolio" width="49%"/></a>
-  <a href="https://shashlik-nu.vercel.app"><img src="assets/card-shashlik.svg" alt="Shashlik 24/7" width="49%"/></a>
+  <a href="https://my-portfolio-eta-three-73.vercel.app"><img src="assets/card-portfolio.svg" alt="Shaxsiy portfolio — jonli sayt" width="720"/></a>
 </p>
 <p align="center">
-  <a href="https://oneedu.uz"><img src="assets/card-oneedu.svg" alt="OneEdu" width="49%"/></a>
-  <a href="https://github.com/ozodbekmahmudov/3d-web-showcase"><img src="assets/card-3d.svg" alt="3D Web Showcase" width="49%"/></a>
+  <a href="https://shashlik-nu.vercel.app"><img src="assets/card-shashlik.svg" alt="Shashlik 24/7 — onlayn buyurtma sayti" width="720"/></a>
+</p>
+<p align="center">
+  <a href="https://github.com/ozodbekmahmudov/3d-web-showcase"><img src="assets/card-3d.svg" alt="3D Web Showcase — uchta interaktiv 3D sayt" width="720"/></a>
 </p>
 
 <br/>
@@ -32,8 +34,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=java,spring,postgres,mysql,ts,react,nextjs,threejs,tailwind,docker,git&theme=light&perline=11">
-    <img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,ts,react,nextjs,threejs,tailwind,docker,git&theme=dark&perline=11" alt="Java, Spring Boot, PostgreSQL, MySQL, TypeScript, React, Next.js, Three.js, Tailwind CSS, Docker, Git"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=java,spring,postgres,mysql,ts,react,nextjs,threejs,tailwind,docker,git&theme=light&perline=6">
+    <img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,ts,react,nextjs,threejs,tailwind,docker,git&theme=dark&perline=6" alt="Java, Spring Boot, PostgreSQL, MySQL, TypeScript, React, Next.js, Three.js, Tailwind CSS, Docker, Git" width="420"/>
   </picture>
 </p>
 
@@ -42,7 +44,7 @@
 <img src="assets/t-instagram.svg" alt="03 / Instagram" width="100%"/>
 
 <p align="center">
-  <a href="https://www.instagram.com/ozodbekmaxmudov48"><img src="assets/instagram.svg" alt="Instagram @ozodbekmaxmudov48 — mashina videolari va IT yangiliklari" width="100%"/></a>
+  <a href="https://www.instagram.com/ozodbekmaxmudov48"><img src="assets/instagram.svg" alt="Instagram @ozodbekmaxmudov48 — moshin videolari va IT yangiliklari" width="720"/></a>
 </p>
 
 <br/>
@@ -52,5 +54,5 @@
 <p align="center">
   Telegram: <a href="https://t.me/Maxmudovozodbekk">@Maxmudovozodbekk</a>
   &nbsp;·&nbsp;
-  Portfolio: <a href="https://my-portfolio-eta-three-73.vercel.app">my-portfolio-eta-three-73.vercel.app</a>
+  Instagram: <a href="https://www.instagram.com/ozodbekmaxmudov48">@ozodbekmaxmudov48</a>
 </p>
