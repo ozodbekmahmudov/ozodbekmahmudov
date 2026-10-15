@@ -1,48 +1,56 @@
-<h1 align="center">Salom, men Ozodbek 👋</h1>
-
 <p align="center">
-  <b>Java / Spring Boot backend dasturchi</b> · Toshkent, O'zbekiston<br/>
-  Backend tizimlar, onlayn buyurtma va katalog saytlari hamda interaktiv 3D veb-loyihalar quraman.
+  <img src="assets/banner.svg" alt="Maxmudov Ozodbek — Java / Spring Boot backend dasturchi" width="100%"/>
 </p>
 
 <p align="center">
-  <a href="https://my-portfolio-eta-three-73.vercel.app"><img src="https://img.shields.io/badge/Portfolio-my--portfolio-3b82f6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://www.instagram.com/ozodbekmaxmudov48"><img src="https://img.shields.io/badge/Instagram-@ozodbekmaxmudov48-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="https://t.me/Maxmudovozodbekk"><img src="https://img.shields.io/badge/Telegram-@Maxmudovozodbekk-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+  Java va Spring ekotizimida backend tizimlar, onlayn buyurtma va katalog saytlari<br/>
+  hamda interaktiv 3D veb-loyihalar quraman. SBUMIPTK universitetida dastur injiniringi yo'nalishida o'qiyman.
 </p>
 
----
+<p align="center">
+  <a href="https://my-portfolio-eta-three-73.vercel.app"><img src="assets/btn-portfolio.svg" alt="Portfolio" height="44"/></a>
+  <a href="https://www.instagram.com/ozodbekmaxmudov48"><img src="assets/btn-instagram.svg" alt="Instagram" height="44"/></a>
+  <a href="https://t.me/Maxmudovozodbekk"><img src="assets/btn-telegram.svg" alt="Telegram" height="44"/></a>
+</p>
 
-## 🚀 Loyihalarim
+<br/>
 
-| Loyiha | Nima | Texnologiyalar |
-|---|---|---|
-| 🌐 **[Shaxsiy portfolio](https://my-portfolio-eta-three-73.vercel.app)** | Ishlarim, ko'nikmalarim va bog'lanish ma'lumotlari jamlangan 3D hero'li portfolio sayt | React · TanStack Start · Three.js · Tailwind CSS |
-| 🍢 **[Shashlik 24/7](https://shashlik-nu.vercel.app)** | Onlayn buyurtma sayti: mijoz taom tanlaydi, buyurtma Telegram oshxona guruhiga tushadi, xodimlar admin panel orqali holatni boshqaradi. 3 tilda (uz / ru / en) | Next.js 15 · TypeScript · PostgreSQL · Prisma · Telegram bot |
-| 🎓 **[OneEdu](https://oneedu.uz)** 🚧 *sinov bosqichida* | Toshkentdagi o'quv markazlarni xaritada topish, narx va o'qituvchilarni taqqoslash va to'g'ridan-to'g'ri ariza qoldirish platformasi | Next.js · TypeScript · Xarita |
-| 🪐 **[3D Web Showcase](https://github.com/ozodbekmahmudov/3d-web-showcase)** | Uchta interaktiv 3D sayt: ASCEND (aylanuvchi sayyorali SaaS landing), SPACEEDU (quyosh tizimi ta'lim platformasi), LAOCOON (Laokoon haykali 3D taqdimoti) | Three.js · HTML · CSS · JavaScript |
+<img src="assets/t-projects.svg" alt="01 / Loyihalar" width="100%"/>
 
-## 🛠 Texnologiyalar
+<p align="center">
+  <a href="https://my-portfolio-eta-three-73.vercel.app"><img src="assets/card-portfolio.svg" alt="Shaxsiy portfolio" width="49%"/></a>
+  <a href="https://shashlik-nu.vercel.app"><img src="assets/card-shashlik.svg" alt="Shashlik 24/7" width="49%"/></a>
+</p>
+<p align="center">
+  <a href="https://oneedu.uz"><img src="assets/card-oneedu.svg" alt="OneEdu" width="49%"/></a>
+  <a href="https://github.com/ozodbekmahmudov/3d-web-showcase"><img src="assets/card-3d.svg" alt="3D Web Showcase" width="49%"/></a>
+</p>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+<br/>
 
-## 📸 Instagram
+<img src="assets/t-stack.svg" alt="02 / Texnologiyalar" width="100%"/>
 
-Instagram sahifamda mashina videolarim va IT bo'yicha yangiliklar bor — kuzatib boring:
-**[@ozodbekmaxmudov48](https://www.instagram.com/ozodbekmaxmudov48)**
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=java,spring,postgres,mysql,ts,react,nextjs,threejs,tailwind,docker,git&theme=light&perline=11">
+    <img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,ts,react,nextjs,threejs,tailwind,docker,git&theme=dark&perline=11" alt="Java, Spring Boot, PostgreSQL, MySQL, TypeScript, React, Next.js, Three.js, Tailwind CSS, Docker, Git"/>
+  </picture>
+</p>
 
-## 📫 Bog'lanish
+<br/>
 
-- 💬 Telegram: [@Maxmudovozodbekk](https://t.me/Maxmudovozodbekk)
-- 🌐 Portfolio: [my-portfolio-eta-three-73.vercel.app](https://my-portfolio-eta-three-73.vercel.app)
-- 🎓 Hozirda SBUMIPTK universitetida dastur injiniringi yo'nalishida o'qiyman
+<img src="assets/t-instagram.svg" alt="03 / Instagram" width="100%"/>
+
+<p align="center">
+  <a href="https://www.instagram.com/ozodbekmaxmudov48"><img src="assets/instagram.svg" alt="Instagram @ozodbekmaxmudov48 — mashina videolari va IT yangiliklari" width="100%"/></a>
+</p>
+
+<br/>
+
+<img src="assets/t-contact.svg" alt="04 / Bog'lanish" width="100%"/>
+
+<p align="center">
+  Telegram: <a href="https://t.me/Maxmudovozodbekk">@Maxmudovozodbekk</a>
+  &nbsp;·&nbsp;
+  Portfolio: <a href="https://my-portfolio-eta-three-73.vercel.app">my-portfolio-eta-three-73.vercel.app</a>
+</p>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="188" height="56" viewBox="0 0 188 56" role="img" aria-label="Telegram">
+<defs><linearGradient id="bt" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1d9bd8"/><stop offset="1" stop-color="#26a5e4"/></linearGradient></defs>
+<rect x="0.5" y="0.5" width="187" height="55" rx="28" fill="url(#bt)"/>
+<rect x="0.5" y="0.5" width="187" height="55" rx="28" fill="none" stroke="#fff" stroke-opacity="0.18"/>
+<g transform="translate(22,16) scale(1)" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14.536 21.686a.5.5 0 0 0 .937-.024l6.5-19a.496.496 0 0 0-.635-.635l-19 6.5a.5.5 0 0 0-.024.937l7.93 3.18a2 2 0 0 1 1.112 1.11z"/><path d="m21.854 2.147-10.94 10.939"/></g>
+<text x="58" y="34.5" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="19" font-weight="600" fill="#fff">Telegram</text>
+</svg>
