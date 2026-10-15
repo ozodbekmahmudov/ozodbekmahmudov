@@ -19,13 +19,13 @@
 <img src="assets/t-projects.svg" alt="01 / Loyihalar" width="100%"/>
 
 <p align="center">
-  <a href="https://my-portfolio-eta-three-73.vercel.app"><img src="assets/card-portfolio.svg" alt="Shaxsiy portfolio — jonli sayt" width="720"/></a>
+  <a href="https://my-portfolio-eta-three-73.vercel.app"><img src="assets/card-portfolio.svg" alt="Shaxsiy portfolio — jonli sayt" width="560"/></a>
 </p>
 <p align="center">
-  <a href="https://shashlik-nu.vercel.app"><img src="assets/card-shashlik.svg" alt="Shashlik 24/7 — onlayn buyurtma sayti" width="720"/></a>
+  <a href="https://shashlik-nu.vercel.app"><img src="assets/card-shashlik.svg" alt="Shashlik 24/7 — onlayn buyurtma sayti" width="560"/></a>
 </p>
 <p align="center">
-  <a href="https://github.com/ozodbekmahmudov/3d-web-showcase"><img src="assets/card-3d.svg" alt="3D Web Showcase — uchta interaktiv 3D sayt" width="720"/></a>
+  <a href="https://github.com/ozodbekmahmudov/3d-web-showcase"><img src="assets/card-3d.svg" alt="3D Web Showcase — uchta interaktiv 3D sayt" width="560"/></a>
 </p>
 
 <br/>
@@ -44,7 +44,7 @@
 <img src="assets/t-instagram.svg" alt="03 / Instagram" width="100%"/>
 
 <p align="center">
-  <a href="https://www.instagram.com/ozodbekmaxmudov48"><img src="assets/instagram.svg" alt="Instagram @ozodbekmaxmudov48 — moshin videolari va IT yangiliklari" width="720"/></a>
+  <a href="https://www.instagram.com/ozodbekmaxmudov48"><img src="assets/instagram.svg" alt="Instagram @ozodbekmaxmudov48 — moshin videolari va IT yangiliklari" width="560"/></a>
 </p>
 
 <br/>
