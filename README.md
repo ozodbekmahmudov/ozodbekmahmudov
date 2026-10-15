@@ -14,40 +14,34 @@
   <a href="https://t.me/Maxmudovozodbekk"><img src="assets/btn-telegram.svg" alt="Telegram" height="44"/></a>
 </p>
 
-<br/>
-
 <img src="assets/t-projects.svg" alt="01 / Loyihalar" width="100%"/>
 
 <p align="center">
-  <a href="https://my-portfolio-eta-three-73.vercel.app"><img src="assets/card-portfolio.svg" alt="Shaxsiy portfolio — jonli sayt" width="560"/></a>
+  <a href="https://my-portfolio-eta-three-73.vercel.app"><picture><source media="(max-width: 640px)" srcset="assets/card-portfolio-m.svg"><img src="assets/card-portfolio.svg" alt="Shaxsiy portfolio — jonli sayt" width="100%"/></picture></a>
 </p>
 <p align="center">
-  <a href="https://shashlik-nu.vercel.app"><img src="assets/card-shashlik.svg" alt="Shashlik 24/7 — onlayn buyurtma sayti" width="560"/></a>
+  <a href="https://shashlik-nu.vercel.app"><picture><source media="(max-width: 640px)" srcset="assets/card-shashlik-m.svg"><img src="assets/card-shashlik.svg" alt="Shashlik 24/7 — onlayn buyurtma sayti" width="100%"/></picture></a>
 </p>
 <p align="center">
-  <a href="https://github.com/ozodbekmahmudov/3d-web-showcase"><img src="assets/card-3d.svg" alt="3D Web Showcase — uchta interaktiv 3D sayt" width="560"/></a>
+  <a href="https://github.com/ozodbekmahmudov/3d-web-showcase"><picture><source media="(max-width: 640px)" srcset="assets/card-3d-m.svg"><img src="assets/card-3d.svg" alt="3D Web Showcase — uchta interaktiv 3D sayt" width="100%"/></picture></a>
 </p>
-
-<br/>
 
 <img src="assets/t-stack.svg" alt="02 / Texnologiyalar" width="100%"/>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=java,spring,postgres,mysql,ts,react,nextjs,threejs,tailwind,docker,git&theme=light&perline=6">
-    <img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,ts,react,nextjs,threejs,tailwind,docker,git&theme=dark&perline=6" alt="Java, Spring Boot, PostgreSQL, MySQL, TypeScript, React, Next.js, Three.js, Tailwind CSS, Docker, Git" width="420"/>
+    <source media="(max-width: 640px) and (prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=java,spring,postgres,mysql,ts,react,nextjs,threejs,tailwind,docker,git&theme=light&perline=6">
+    <source media="(max-width: 640px)" srcset="https://skillicons.dev/icons?i=java,spring,postgres,mysql,ts,react,nextjs,threejs,tailwind,docker,git&theme=dark&perline=6">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=java,spring,postgres,mysql,ts,react,nextjs,threejs,tailwind,docker,git&theme=light&perline=11">
+    <img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,ts,react,nextjs,threejs,tailwind,docker,git&theme=dark&perline=11" alt="Java, Spring Boot, PostgreSQL, MySQL, TypeScript, React, Next.js, Three.js, Tailwind CSS, Docker, Git"/>
   </picture>
 </p>
-
-<br/>
 
 <img src="assets/t-instagram.svg" alt="03 / Instagram" width="100%"/>
 
 <p align="center">
-  <a href="https://www.instagram.com/ozodbekmaxmudov48"><img src="assets/instagram.svg" alt="Instagram @ozodbekmaxmudov48 — moshin videolari va IT yangiliklari" width="560"/></a>
+  <a href="https://www.instagram.com/ozodbekmaxmudov48"><picture><source media="(max-width: 640px)" srcset="assets/instagram-m.svg"><img src="assets/instagram.svg" alt="Instagram @ozodbekmaxmudov48 — moshin videolari va IT yangiliklari" width="100%"/></picture></a>
 </p>
-
-<br/>
 
 <img src="assets/t-contact.svg" alt="04 / Bog'lanish" width="100%"/>
 
