@@ -19,7 +19,7 @@
 |---|---|---|
 | 🌐 **[Shaxsiy portfolio](https://my-portfolio-eta-three-73.vercel.app)** | Ishlarim, ko'nikmalarim va bog'lanish ma'lumotlari jamlangan 3D hero'li portfolio sayt | React · TanStack Start · Three.js · Tailwind CSS |
 | 🍢 **[Shashlik 24/7](https://shashlik-nu.vercel.app)** | Onlayn buyurtma sayti: mijoz taom tanlaydi, buyurtma Telegram oshxona guruhiga tushadi, xodimlar admin panel orqali holatni boshqaradi. 3 tilda (uz / ru / en) | Next.js 15 · TypeScript · PostgreSQL · Prisma · Telegram bot |
-| 🎓 **[OneEdu](https://oneedu.uz)** | Toshkentdagi o'quv markazlarni xaritada topish, narx va o'qituvchilarni taqqoslash va to'g'ridan-to'g'ri ariza qoldirish platformasi | Next.js · TypeScript · Xarita |
+| 🎓 **[OneEdu](https://oneedu.uz)** 🚧 *sinov bosqichida* | Toshkentdagi o'quv markazlarni xaritada topish, narx va o'qituvchilarni taqqoslash va to'g'ridan-to'g'ri ariza qoldirish platformasi | Next.js · TypeScript · Xarita |
 | 🪐 **[3D Web Showcase](https://github.com/ozodbekmahmudov/3d-web-showcase)** | Uchta interaktiv 3D sayt: ASCEND (aylanuvchi sayyorali SaaS landing), SPACEEDU (quyosh tizimi ta'lim platformasi), LAOCOON (Laokoon haykali 3D taqdimoti) | Three.js · HTML · CSS · JavaScript |
 
 ## 🛠 Texnologiyalar
